@@ -1,0 +1,142 @@
+{
+    "Meknès": {
+        "Ifrane": 65,
+        "Fès": 60,
+        "Rabat": 150,
+        "Kénitra": 120,
+        "Khouribga": 170,
+        "Chefchaouen": 180
+    },
+    "Ifrane": {
+        "Meknès": 65,
+        "Fès": 60,
+        "Azilal": 180,
+        "Beni Mellal": 160
+    },
+    "Fès": {
+        "Meknès": 60,
+        "Ifrane": 60,
+        "Rabat": 200,
+        "Taza": 120,
+        "Chefchaouen": 200
+    },
+    "Rabat": {
+        "Meknès": 150,
+        "Fès": 200,
+        "Casablanca": 90,
+        "Kénitra": 45,
+        "Beni Mellal": 220,
+        "Settat": 160
+    },
+    "Kénitra": {
+        "Meknès": 120,
+        "Rabat": 45,
+        "Agadir": 630,
+        "Chefchaouen": 200
+    },
+    "Agadir": {
+        "Kénitra": 630,
+        "Essaouira": 175,
+        "Chichaoua": 180,
+        "Marrakech": 250,
+        "Ouarzazate": 370
+    },
+    "Azilal": {
+        "Ifrane": 180,
+        "Beni Mellal": 90,
+        "Ouarzazate": 240,
+        "Marrakech": 160
+    },
+    "Casablanca": {
+        "Rabat": 90,
+        "Settat": 70,
+        "El Jadida": 100,
+        "Marrakech": 240
+    },
+    "Ouarzazate": {
+        "Agadir": 370,
+        "Azilal": 240,
+        "Marrakech": 195,
+        "Settat": 280
+    },
+    "Chichaoua": {
+        "Agadir": 180,
+        "Marrakech": 80,
+        "Settat": 90,
+        "Essaouira": 100
+    },
+    "Beni Mellal": {
+        "Ifrane": 160,
+        "Azilal": 90,
+        "Rabat": 220,
+        "Marrakech": 190,
+        "Settat": 130,
+        "Khouribga": 90
+    },
+    "Settat": {
+        "Rabat": 160,
+        "Casablanca": 70,
+        "Ouarzazate": 280,
+        "Chichaoua": 90,
+        "Beni Mellal": 130,
+        "Marrakech": 165,
+        "Khouribga": 80,
+        "Benguérir": 90
+    },
+    "Marrakech": {
+        "Agadir": 250,
+        "Azilal": 160,
+        "Casablanca": 240,
+        "Ouarzazate": 195,
+        "Chichaoua": 80,
+        "Beni Mellal": 190,
+        "Settat": 165,
+        "Safi": 155,
+        "Benguérir": 75,
+        "Essaouira": 190
+    },
+    "Safi": {
+        "Marrakech": 155,
+        "El Jadida": 140,
+        "Benguérir": 100,
+        "Essaouira": 130
+    },
+    "Benguérir": {
+        "Settat": 90,
+        "Marrakech": 75,
+        "Safi": 100,
+        "El Jadida": 150,
+        "Khouribga": 150
+    },
+    "El Jadida": {
+        "Casablanca": 100,
+        "Safi": 140,
+        "Benguérir": 150,
+        "Essaouira": 220
+    },
+    "Essaouira": {
+        "Agadir": 175,
+        "Chichaoua": 100,
+        "Marrakech": 190,
+        "Safi": 130,
+        "El Jadida": 220
+    },
+    "Khouribga": {
+        "Meknès": 170,
+        "Beni Mellal": 90,
+        "Settat": 80,
+        "Benguérir": 150,
+        "Chefchaouen": 380
+    },
+    "Chefchaouen": {
+        "Meknès": 180,
+        "Fès": 200,
+        "Kénitra": 200,
+        "Khouribga": 380,
+        "Taza": 280
+    },
+    "Taza": {
+        "Fès": 120,
+        "Chefchaouen": 280
+    }
+}
